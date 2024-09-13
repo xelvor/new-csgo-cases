@@ -1,0 +1,3 @@
+<template>
+  walemefe kurwa
+</template>
