@@ -71,7 +71,7 @@ src
 ├── components/      # Reusable Vue components
 ├── views/           # Application pages
 ├── styles/          # Global CSS and Tailwind configuration
-└── main.ts          # Entry point for Vue.ts
+└── main.js          # Entry point for Vue.js
 ```
 
 ---
